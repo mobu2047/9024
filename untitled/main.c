@@ -21,4 +21,5 @@ initialisation */
         for (i = 0; i < SIZE; i++)
             printf("%d\n", numbers[i]); // printf defined in <stdio>
         return 0; // return program status (here: no error) to environment
+
         }
